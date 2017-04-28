@@ -2,3 +2,4 @@
 /camunda-bpm-example-spin.iml
 /.idea/
 /target/
+/src/main/resources/camunda-license.txt
