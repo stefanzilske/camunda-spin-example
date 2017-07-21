@@ -11,6 +11,7 @@ import java.util.Set;
 @Setter
 @Builder
 @AllArgsConstructor
+@ToString
 public class OneDomainObject {
 
     private Long id;

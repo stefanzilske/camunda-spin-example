@@ -5,3 +5,5 @@ camunda:
       password: demo
     history-level: FULL
     default-serialization-format: application/json
+    filter:
+      create: default
